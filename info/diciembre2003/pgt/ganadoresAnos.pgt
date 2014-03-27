@@ -1,0 +1,19 @@
+========== Description Part Begin ==========
+Description = 
+LastUpdateTime = 37812.817210648
+PreviewPath = 
+ProgID = PageletServer.DynamicMenu
+Title = Normal
+Version = 4.00
+========== Description Part End ==========
+========== Parameter Part Begin ==========
+MenuBody0 = 4;1;2;2;0;0;0;0;2;5;12420145;1;0;90;1;1;0;10066329;10066329;10066329;10066329;14071172;0;;3
+MenuBody1 = 2;1;3;1;9;-2;0;0;2;3;16777215;1;0;90;1;1;1;14071172;14071172;14071172;14071172;14071172;0;;3
+MenuItem0_0 = 0;1;;;0;    LISTADO DE GANADORES;0;1;1;GANADORES;;_self;GANADORES;0;14071172;14071172;0;0;;;3;3;1;1;1;1;14071172;14071172;14071172;14071172;14071172;14071172;14071172;14071172;;;0;0;0;;;0;0;0;;;7;7;0;Tahoma;Tahoma;8;8;0;0;0;16777215;1;1;0;0;0;0;0;0;0;0;
+MenuItem0_1 = 0;0;;;0;1;12420145;0;;;0;2;0
+MenuItem0_2 = 1;1;;;0;Ediciones anteriores;0;1;1;Ediciones anteriores;../../historico/index.html;_self;Ediciones anteriores;0;14071172;12420145;0;0;;;3;3;1;1;1;1;14071172;14071172;14071172;14071172;6710886;6710886;6710886;6710886;;;0;0;0;;;0;0;0;D:\\NO BORRAR RESPALDO WEB CUNIBE\\Respaldo Pasantias Nilson Chirinos\\info\\pgt\\arrow_r.gif;D:\\NO BORRAR RESPALDO WEB CUNIBE\\Respaldo Pasantias Nilson Chirinos\\info\\pgt\\arrow_r.gif;7;7;0;Tahoma;Tahoma;9;9;0;0;3355443;16777215;1;1;0;0;0;0;0;0;0;0;
+MenuItem0_3 = 2;2;;;0;Año 2003;0;1;1;Participantes;;_self;Participantes;0;14071172;12420145;0;0;;;3;3;1;1;1;1;14071172;14071172;14071172;14071172;6710886;6710886;6710886;6710886;;;0;0;0;;;0;0;0;D:\\NO BORRAR RESPALDO WEB CUNIBE\\Respaldo Pasantias Nilson Chirinos\\info\\pgt\\arrow_r.gif;D:\\NO BORRAR RESPALDO WEB CUNIBE\\Respaldo Pasantias Nilson Chirinos\\info\\pgt\\arrow_r.gif;7;7;0;Tahoma;Tahoma;9;9;0;0;3355443;16777215;1;1;0;0;0;0;0;0;0;0;
+MenuItem1_0 = 0;1;;;0; Edición Julio;0;0;1;Edición Julio;../../2003/julio/index.html;_self;Edición Julio;0;14071172;12420145;0;0;;;3;3;1;1;1;1;14071172;14071172;14071172;14071172;6710886;6710886;6710886;6710886;;;0;0;0;;;0;0;0;D:\\NO BORRAR RESPALDO WEB CUNIBE\\Respaldo Pasantias Nilson Chirinos\\info\\pgt\\arrow_r.gif;D:\\NO BORRAR RESPALDO WEB CUNIBE\\Respaldo Pasantias Nilson Chirinos\\info\\pgt\\arrow_r.gif;7;7;0;Tahoma;Tahoma;9;9;0;0;0;16777215;0;1;0;0;0;0;0;0;0;0;
+MenuItem1_1 = 0;1;;;0; Edición Diciembre;0;0;1;Edición Diciembre;javascript:alert('Pagina en Construcción')\s;_self;Edición Diciembre;0;14071172;12420145;0;0;;;3;3;1;1;1;1;14071172;14071172;14071172;14071172;6710886;6710886;6710886;6710886;;;0;0;0;;;0;0;0;D:\\NO BORRAR RESPALDO WEB CUNIBE\\Respaldo Pasantias Nilson Chirinos\\info\\pgt\\arrow_r.gif;D:\\NO BORRAR RESPALDO WEB CUNIBE\\Respaldo Pasantias Nilson Chirinos\\info\\pgt\\arrow_r.gif;7;7;0;Tahoma;Tahoma;9;9;0;0;0;16777215;0;1;0;0;0;0;0;0;0;0;
+TopMenuBody = 2;400;btnexpocunibeganadoresanos;0;1;1;0;0;0;0;1000;250;0;../../imagenes;1;0;0
+========== Parameter Part End ==========
